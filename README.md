@@ -7,7 +7,9 @@ https://www.youtube.com/watch?v=3Sr4f0cUMxc&lc=z13jify4vs3svbutb231hja53xbsjdp4l
 
 ![](softeare%20pic2.png)
 
-Credits:  
+Credits: 
+
+This project would not have been possible without these two guys;
   
 www.pyimagesearch.com
 bradmontgomery https://github.com/bradmontgomery
